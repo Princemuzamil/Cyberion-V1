@@ -3,7 +3,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=𝑪𝒀𝑩𝑬𝑹𝑰𝑶𝑵+𝑽1+𝑪𝑹𝑬𝑨𝑻𝑬𝑫+𝑩𝒀+Muzamil)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=𝑷𝑹𝑰𝑵𝑪𝑬 𝑴𝑼𝒁𝑨𝑴𝑰𝑳+𝑴𝑫+𝑪𝑹𝑬𝑨𝑻𝑬𝑫+𝑩𝒀+𝑴𝑼𝒁𝑨𝑴𝑰𝑳)](https://git.io/typing-svg) 
 
 
 
@@ -29,7 +29,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝗖𝗢𝗗𝗘+𝗕𝗬+𝗖𝗔𝗥𝗟𝗧𝗘𝗖𝗛🤗)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝗖𝗢𝗗𝗘+𝗕𝗬+𝑷𝑹𝑰𝑵𝑪𝑹 𝑴𝑼𝒁𝑨𝑴𝑰𝑳🤗)](https://git.io/typing-svg)
 
 
 
@@ -77,7 +77,6 @@
  
 ## 𝐓𝐀𝐏 𝐇𝐄𝐑𝐄 𝐀𝐍𝐃 𝐖𝐀𝐓𝐂𝐇 𝐇𝐎𝐖 𝐓𝐎 𝐂𝐎𝐍𝐍𝐄𝐂𝐓
  
- [`𝐕𝐈𝐃𝐄𝐎`](https://files.fm/f/hqnjmf6v4z)
 
 
 
